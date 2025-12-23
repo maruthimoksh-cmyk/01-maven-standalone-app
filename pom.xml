@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-	    <!--dependency framwork -->
+	    <!--dependency framwork project-->
 		<groupId>org.springframework</groupId>
 		<artifactId>spring-core</artifactId>
 		<version>7.0.2</version>
